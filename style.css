@@ -89,7 +89,7 @@ img{
     background-position: center top;
 }
 #home{
-    background-image: url(COFFEE.jpg);
+    background-image: url(coffee.jpg);
     min-height: 100vh;
     background-blend-mode: luminosity;
 }
