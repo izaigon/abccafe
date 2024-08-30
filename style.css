@@ -89,7 +89,7 @@ img{
     background-position: center top;
 }
 #home{
-    background-image: url(News-1.jpg);
+    background-image: url(COFFEE.jpg);
     min-height: 100vh;
     background-blend-mode: luminosity;
 }
@@ -99,7 +99,7 @@ img{
 
 /*NEWS*/
 #news{
-    background-image: url(images/News-1.jpg);
+    background-image: url(News-1.jpg);
     height: 270px;
     margin-bottom: 40px;
 }
@@ -294,7 +294,7 @@ footer p{
 
 /*MENU*/
 #menu{
-    background-image: url(images/menu2.jpg);
+    background-image: url(menu2.jpg);
     height: 270px;
     margin-bottom: 40px;
 }
@@ -326,7 +326,7 @@ footer p{
 
 /*CONTACT*/
 #contact{
-    background-image: url(images/contact-1.jpg);
+    background-image: url(contact-1.jpg);
     min-height: 100vh;
 }
 .attention{
